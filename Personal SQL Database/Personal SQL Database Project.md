@@ -9,12 +9,9 @@
 	- [ ] Caloric Intake
 		- ID, Date, Meal Type (Breakfast, lunch, dinner, etc.), Food Item, Calories.
 	- [ ] Projects
-		- ID, Task Name, Priority, Start Date, Due Date, Status
-	- [ ] Investments?
-		- ID, Stock name, Purchase Date, Purchase Price, Quantity, Current Price, Current Value, Gain/Loss.
-		- Could be redundant and provide little to no value. 
-	- [ ] Budgets
-		- ID, Date, Category, Amount
+		- ID, Task Name, Priority, Start Date, Due Date, Status.
+	- [ ] Transactions
+		- ID, Date, Category, Amount, Item.
 	- [ ] Daily Tasks
  		- ID, Date (Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean)))
 - [ ] Create a UML Diagram for data
