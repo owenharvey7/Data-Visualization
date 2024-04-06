@@ -3,18 +3,18 @@
 ##### Task List:
 - [ ] Create Tables:
 	- [ ] Lifting
-		- ID, Exercise, Sets, Reps, Weight, Date, Notes.
+		- ID, Date, Lift Type, Total Volume, Notes.
   		- Try and export data from Hevy and insert it into SQL.
     			-  https://hevy.com/settings?export
 	- [ ] Caloric Intake
 		- ID, Date, Meal Type (Breakfast, lunch, dinner, etc.), Food Item, Calories.
 	- [ ] Projects
-		- ID, Task Name, Priority, Due Date, Status
+		- ID, Task Name, Priority, Start Date, Due Date, Status
 	- [ ] Investments?
 		- ID, Stock name, Purchase Date, Purchase Price, Quantity, Current Price, Current Value, Gain/Loss.
 		- Could be redundant and provide little to no value. 
 	- [ ] Budgets
-		- ID, Category, Amount, Date
+		- ID, Date, Category, Amount
 	- [ ] Daily Tasks
  		- ID, Date (Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean)))
 - [ ] Create a UML Diagram for data
