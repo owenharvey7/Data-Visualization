@@ -8,4 +8,4 @@ These are all projects done with data I found interesting and wanted to get a be
 - [x] School Data
 - [x] School Test Scores
 - [ ] WebScraping and Visualization
-  - Need to finish linear regression
+- [ ] Personal SQL Database
