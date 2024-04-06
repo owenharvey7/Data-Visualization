@@ -16,7 +16,7 @@
 	- [ ] Budgets
 		- ID, Category, Amount, Date
 	- [ ] Daily Tasks
- 		- ID, Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean))
+ 		- ID, Date (Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean)))
 - [ ] Create a UML Diagram for data
 - [ ] Map Tables
 - [ ] Fill tables with data
