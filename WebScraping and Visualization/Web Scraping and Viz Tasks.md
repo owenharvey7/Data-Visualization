@@ -16,5 +16,6 @@
 		- [x] Predict stadium capacity
 - [x] Write a Python script to convert the CSV file I made into an XLSX
 - [ ] Use the CSV file for data visualization with Tableau
-	- [ ] Connect the CSV file to Tableau
-	- [ ] Model the largest stadiums
+	- [x] Connect the CSV file to Tableau
+	- [x] Model the largest stadiums
+	- [ ] Create a dashboard to model some insightful Stadium data
