@@ -19,10 +19,10 @@
 	- [x] Connect the CSV file to Tableau
 	- [x] Model the largest stadiums
 - [ ] Create a dashboard to model some insightful Stadium data
- 	- [ ] Dashboard 1: Total # of stadiums, distribution of stadiums in conference, average stadium capacity.
-   	- [ ] Dashboard 2: List of teams with their stadiums, capacities, and surfaces. Map showing the location of teams. Filter by conference or team. 
-     	- [ ] Dashboard 3: Bar chart showing record attendance for each stadium. Top 10 stadiums by record attendance. Stadium ages.
-       	- [ ] Dashboard 4: Histogram showing the distribution of stadium ages.
+ 	- [x] Dashboard 1: Total # of stadiums, distribution of stadiums in conference, average stadium capacity.
+   	- [x] Dashboard 2: List of teams with their stadiums, capacities, and surfaces. Map showing the location of teams. Filter by conference or team. 
+     	- [x] Dashboard 3: Bar chart showing record attendance for each stadium. Top 10 stadiums by record attendance. Stadium ages.
+       	- [x] Dashboard 4: Histogram showing the distribution of stadium ages.
         - [ ] Dashboard 5: % of stadiums to expand, average time between construction and expansion.
    	- [ ] Dashboard 6: Unique stadium characteristics (oldest, largest, newest, etc.)
    	- [ ] Dashboard 7: Charts showing the stadium capacity over the years, attendance over the years. 
