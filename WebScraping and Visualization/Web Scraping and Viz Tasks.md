@@ -14,6 +14,7 @@
 	- [x] Find the stadium surfaces for the difference conferences and age of stadiums
 	- [x] Create a learning model
 		- [x] Predict stadium capacity
+- [ ] Write a Python script to convert the CSV file I made into an XLSX
 - [ ] Use the CSV file for data visualization with Tableau
 	- [ ] Connect the CSV file to Tableau
 	- [ ] Model the largest stadiums
