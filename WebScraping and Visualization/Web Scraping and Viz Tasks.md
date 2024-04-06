@@ -1,17 +1,17 @@
-- [x] Create web Scraping tool
+- [x] Create a web Scraping tool
 	- [x] Read Data using pandas
 	- [x] Transform the data
 		- [x] Convert ints to string
 		- [x] Convert back to ints
 		- [x] Clean the Capacity column
-	- [x] Save data to CSV file
+	- [x] Save data to a CSV file
 - [x] Use the CSV File to perform data analysis with Python
 	- [x] View number of teams in each conference
-	- [x] Find each teams stadium capacity
+	- [x] Find each team's stadium capacity
 	- [x] Find average stadium capacity for each conference
 	- [x] Find the oldest and newest stadiums
 	- [x] Find stadium age for teams and conference
-	- [x] Find the stadium surfaces for the difference conferences and age of stadiums
+	- [x] Find the stadium surfaces for the different conferences and ages of stadiums
 	- [x] Create a learning model
 		- [x] Predict stadium capacity
 - [x] Write a Python script to convert the CSV file I made into an XLSX
