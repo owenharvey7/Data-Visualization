@@ -8,7 +8,7 @@
     			-  https://hevy.com/settings?export
 	- [ ] Caloric Intake
 		- ID, Date, Meal Type (Breakfast, lunch, dinner, etc.), Food Item, Calories.
-	- [ ] Tasks
+	- [ ] Projects
 		- ID, Task Name, Priority, Due Date, Status
 	- [ ] Investments?
 		- ID, Stock name, Purchase Date, Purchase Price, Quantity, Current Price, Current Value, Gain/Loss.
