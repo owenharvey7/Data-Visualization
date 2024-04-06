@@ -2,8 +2,8 @@
 ##### This project is just to keep stats of things in my life I would like to then use this information to visualize it in Tableau using connectors
 ##### Task List:
 - [ ] Create Tables:
-	- [ ] Lifting
-		- ID, Date, Lift Type, Total Volume, Notes.
+	- [ ] Workouts
+		- ID, Date, Workout Type, Length, Total Volume, Notes.
   		- Try and export data from Hevy and insert it into SQL.
     			-  https://hevy.com/settings?export
 	- [ ] Caloric Intake
