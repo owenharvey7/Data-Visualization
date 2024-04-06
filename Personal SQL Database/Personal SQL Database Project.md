@@ -13,11 +13,15 @@
 		- Could be redundant and provide little to no value. 
 	- [ ] Budgets
 		- ID, Category, Amount, Date
+	- [ ] Daily Tasks
+ 		- ID, Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean))
 - [ ] Create UML Diagram for data
 - [ ] Map Tables
 - [ ] Fill tables with data
 	- [ ] Each table name to update...
 - [ ] Create python script to automate my sql updates
 - [ ] Connect Data to Tableau connectors
+	- [ ] Create connection from mysql workbench to odata
+ 	- [ ] Create odata connection to Tableau public
 - [ ] Visualize the data (This will probably have subsets to this task)
 
