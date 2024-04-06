@@ -16,7 +16,8 @@
 - [ ] Create UML Diagram for data
 - [ ] Map Tables
 - [ ] Fill tables with data
-	- [ ] Meep
+	- [ ] Each table name to update...
+- [ ] Create python script to automate my sql updates
 - [ ] Connect Data to Tableau connectors
 - [ ] Visualize the data (This will probably have subsets to this task)
 
