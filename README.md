@@ -7,5 +7,5 @@ These are all projects done with data I found interesting and wanted to get a be
       - This project goes over S&P 500 Data.
 - [x] School Data
 - [x] School Test Scores
-- [ ] WebScraping and Visualization
+- [x] WebScraping and Visualization
 - [ ] Personal SQL Database
