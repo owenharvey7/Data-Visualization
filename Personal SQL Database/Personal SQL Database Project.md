@@ -19,12 +19,17 @@
 - [ ] Fill tables with data
 	- [x] Workouts
  	- [ ] Caloric Intake
-  	- [ ] Projects
+  	- [x] Projects
   	- [x] Transactions
   	- [x] Daily Tasks
 - [ ] Create Python script to automate my SQL updates
 - [ ] Connect Data to Tableau connectors
 	- [ ] Create a connection from MySQL workbench to Odata
  	- [ ] Create Odata connection to Tableau Public
-- [ ] Visualize the data (This will probably have subsets to this task)
+- [ ] Visualize the data
+	- [x] Workouts
+ 	- [ ] Caloric Intake
+  	- [x] Projects
+  	- [ ] Transactions
+  	- [ ] Daily Tasks
 
