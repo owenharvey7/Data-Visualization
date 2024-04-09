@@ -15,7 +15,6 @@
 	- [x] Daily Tasks
  		- ID, Date (Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean)))
 - [ ] Create a UML Diagram for data
-- [ ] Map Tables
 - [ ] Fill tables with data
 	- [x] Workouts
  	- [ ] Caloric Intake
