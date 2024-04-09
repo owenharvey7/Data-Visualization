@@ -29,6 +29,6 @@
 	- [x] Workouts
  	- [ ] Caloric Intake
   	- [x] Projects
-  	- [ ] Transactions
-  	- [ ] Daily Tasks
+  	- [x] Transactions
+  	- [x] Daily Tasks
 
