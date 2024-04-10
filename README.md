@@ -9,3 +9,6 @@ These are all projects done with data I found interesting and wanted to get a be
 - [x] School Test Scores
 - [x] WebScraping and Visualization
 - [ ] Personal SQL Database
+- [ ] Fake News Detection
+- [ ] Credit Card Fraud Detection
+- [ ] Customer Segmentation
