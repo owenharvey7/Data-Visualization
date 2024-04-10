@@ -8,6 +8,8 @@
     			-  https://hevy.com/settings?export
 	- [x] Caloric Intake
 		- ID, Date, Meal Type (Breakfast, lunch, dinner, etc.), Food Item, Calories.
+  		- Export from Cronometer
+    			- https://cronometer.com/#account
 	- [x] Projects
 		- ID, Task Name, Priority, Start Date, Due Date, Status.
 	- [x] Transactions
@@ -21,10 +23,9 @@
   	- [x] Projects
   	- [x] Transactions
   	- [x] Daily Tasks
-- [ ] Create Python script to automate my SQL updates
-- [ ] Connect Data to Tableau connectors
-	- [ ] Create a connection from MySQL workbench to Odata
- 	- [ ] Create Odata connection to Tableau Public
+- [ ] Create to automate my SQL updates
+- [x] Connect Data to Tableau connectors
+	- [x] Tableau Public does not offer server connections. If I were to upgrade this step would be possible.
 - [ ] Visualize the data
 	- [x] Workouts
  	- [ ] Caloric Intake
