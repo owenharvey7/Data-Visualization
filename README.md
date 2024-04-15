@@ -8,7 +8,7 @@ These are all projects done with data I found interesting and wanted to get a be
 - [x] School Data
 - [x] School Test Scores
 - [x] WebScraping and Visualization
-- [x] Word Cloud
+- [x] Web Crawling and Word Cloud
 - [ ] Personal SQL Database
 - [ ] Fake News Detection
 - [ ] Credit Card Fraud Detection
