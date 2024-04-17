@@ -8,10 +8,10 @@
 - [Exercising for Better Sleep](https://www.hopkinsmedicine.org/health/wellness-and-prevention/exercising-for-better-sleep)
 
 
-##### Does Physical Activity Help You Sleep Better?
+#### Does Physical Activity Help You Sleep Better?
 
-##### The Effect of Physical Activity on Sleep Quality and Sleep Disorders.
-**Takeaways from this article**
+#### The Effect of Physical Activity on Sleep Quality and Sleep Disorders.
+**Takeaways from this article:**
 - Increased physical activity levels are associated with improved sleep quality.
 - Regular exercise can help reduce the risk of insomnia.
 - Physical activity is linked to lower daytime sleepiness.
@@ -25,4 +25,4 @@
 - A sedentary lifestyle can negatively impact cardiovascular health, including heart rate.
 - Combining regular physical activity with good sleep hygiene can lead to better overall health outcomes.
 
-##### Exercising for Better Sleep
+#=#### Exercising for Better Sleep
