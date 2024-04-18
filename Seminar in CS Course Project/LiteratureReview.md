@@ -43,3 +43,13 @@
 
 #### Objective Indicators of Physical Activity and Sedentary Time and Associations with Subjective Well-Being in Adults Aged 70 and Over.
 **Takeaways from this article:**
+- High levels of physical activity are associated with better sleep quality in adolescents.
+- Increased sedentary behavior is linked to poorer sleep outcomes in this population.
+- Promoting physical activity and reducing sedentary time can improve sleep quality in adolescents.
+- Regular physical activity is important for overall health and well-being in this age group.
+- Sedentary behavior should be minimized to improve sleep patterns and overall health in adolescents.
+- The relationship between physical activity, sedentary behavior, and sleep quality is complex and requires further research.
+- Encouraging adolescents to engage in regular physical activity can lead to better sleep hygiene.
+- Educating adolescents about the importance of physical activity for sleep and overall health is essential.
+- Creating environments that support physical activity and limit sedentary behavior can promote better sleep in adolescents.
+- Collaborative efforts involving healthcare professionals, educators, and policymakers are needed to address sleep issues in adolescents through promoting physical activity.
