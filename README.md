@@ -10,7 +10,7 @@ These are all projects done with data I found interesting and wanted to get a be
 - [x] WebScraping and Visualization
 - [x] Web Crawling and Word Cloud
 - [x] Seminar in CS Course Project
-- [ ] Personal SQL Database
+- [x] Personal SQL Database
 - [ ] Fake News Detection
 - [ ] Credit Card Fraud Detection
 - [ ] Customer Segmentation
