@@ -26,3 +26,4 @@
 - [Objective Indicators of Physical Activity and Sedentary Time and Associations with Subjective Well-Being in Adults Aged 70 and Over.](https://www.mdpi.com/1660-4601/11/1/643)
 
 [embed][https://github.com/owenharvey7/Data-Visualization/blob/main/Seminar%20in%20CS%20Course%20Project/Writen%20Report%20-%20Harvey.pdf][/embed]
+<a href="(https://github.com/owenharvey7/Data-Visualization/blob/main/Seminar%20in%20CS%20Course%20Project/Writen%20Report%20-%20Harvey.pdf)" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
