@@ -5,7 +5,12 @@
 - [x] Decide on a Project Idea.
 - [x] Find a Dataset.
 - [x] Come up with a research question.
-- [x] Find 3 literature pieces for my literature review. 
+- [x] Find 3 literature pieces for my literature review.
+- [x] Data Processing
+- [x] Data Visualization
+- [x] Regression Analysis
+- [x] Written Report
+- [x] Conclusion
 
 
 
