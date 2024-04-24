@@ -17,18 +17,17 @@
 	- [x] Daily Tasks
  		- ID, Date (Exercise, Read Choice Book, Read Bible, Journal (All fields will be T or F (boolean)))
 - [ ] Create a UML Diagram for data
-- [ ] Fill tables with data
+- [x] Fill tables with data
 	- [x] Workouts
- 	- [ ] Caloric Intake
+ 	- [x] Caloric Intake
   	- [x] Projects
   	- [x] Transactions
   	- [x] Daily Tasks
-- [ ] Create to automate my SQL updates
 - [x] Connect Data to Tableau connectors
 	- [x] Tableau Public does not offer server connections. If I were to upgrade this step would be possible.
-- [ ] Visualize the data
+- [x] Visualize the data
 	- [x] Workouts
- 	- [ ] Caloric Intake
+ 	- [x] Caloric Intake
   	- [x] Projects
   	- [x] Transactions
   	- [x] Daily Tasks
