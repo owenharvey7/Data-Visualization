@@ -8,6 +8,11 @@
 - Fake News is often used to further or impose certain ideas and is often achieved with political agendas.
 - Fake News Data Source: [Fake News Data Science Walkthrough](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
 
+### Project Outline:
+- Using sklearn, we build a TfidfVectorizer on our dataset. 
+- Then, we initialize a PassiveAggressive Classifier and fit the model. 
+- In the end, the accuracy score and the confusion matrix tell us how well our model fares.
+
 #### Project Learning Notes
 - TfidfVectorizer: TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features. 
   - Term Frequency (TF): The number of times a word appears in a document. A higher value means it occurs more often than others. 
