@@ -2,7 +2,7 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 2      |
+| Easy            | 7      |
 | Medium            | 0      |
 
 ## SQL 50 Track
