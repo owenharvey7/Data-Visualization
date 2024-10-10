@@ -8,11 +8,11 @@
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 #### Select
-- [ ] Recyclable and Low-Fat Products
-- [ ] Find Customer Referee
-- [ ] Big Countries
-- [ ] Article Views 1
-- [ ] Invalid Tweets
+- [x] Recyclable and Low-Fat Products
+- [x] Find Customer Referee
+- [x] Big Countries
+- [x] Article Views 1
+- [x] Invalid Tweets
 #### Basic Joins
 - [ ] Replace Employee ID With The Unique Identifier
 - [ ] Product Sales Analysis 1
