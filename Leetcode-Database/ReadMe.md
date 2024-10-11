@@ -2,7 +2,7 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 7      |
+| Easy            | 11      |
 | Medium            | 0      |
 
 ## SQL 50 Track
@@ -14,10 +14,10 @@
 - [x] Article Views 1
 - [x] Invalid Tweets
 #### Basic Joins
-- [ ] Replace Employee ID With The Unique Identifier
-- [ ] Product Sales Analysis 1
-- [ ] Customer Who Visited but Did Not Make Any Transactions
-- [ ] Rising Temperature
+- [x] Replace Employee ID With The Unique Identifier
+- [x] Product Sales Analysis 1
+- [x] Customer Who Visited but Did Not Make Any Transactions
+- [x] Rising Temperature
 - [ ] Average Time of Process per Machine
 - [ ] Employee Bonus
 - [ ] Students and Examinations
