@@ -3,7 +3,7 @@
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy            | 11      |
-| Medium            | 0      |
+| Medium            | 1      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -18,7 +18,7 @@
 - [x] Product Sales Analysis 1
 - [x] Customer Who Visited but Did Not Make Any Transactions
 - [x] Rising Temperature
-- [ ] Average Time of Process per Machine
+- [x] Average Time of Process per Machine
 - [ ] Employee Bonus
 - [ ] Students and Examinations
 - [ ] Managers with at Least 5 Direct Reports
