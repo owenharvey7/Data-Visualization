@@ -30,6 +30,9 @@ Return the result table in any order.
 
 -- Need to add all start times and end times from each machine. Then do (Start - End) / (Count(machine_id) / 2)
 
-Select machine_id, round(sum(if(activity_type = 'start', -1, 1) *timestamp)/count(distinct process_id),3) as processing_time
-From Activity
-group by machine_id
+SELECT S.user_id, 
+CASE WHEN count(C.action) = 0 Then 0 -- Case for ifnull then 0
+Else ROUND(SUM(CASE WHEN C.action = 'confirmed' THEN 1 ELSE 0 END) / COUNT(C.action), 2) END AS confirmation_rate -- If Confirmed then # / Total # rounded to 2 decimals
+FROM Signups S
+LEFT JOIN Confirmations C ON S.user_id = C.user_id
+GROUP BY S.user_id

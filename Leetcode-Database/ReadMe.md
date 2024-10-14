@@ -2,8 +2,8 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 11      |
-| Medium            | 1      |
+| Easy            | 13      |
+| Medium            | 3      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -19,10 +19,10 @@
 - [x] Customer Who Visited but Did Not Make Any Transactions
 - [x] Rising Temperature
 - [x] Average Time of Process per Machine
-- [ ] Employee Bonus
-- [ ] Students and Examinations
-- [ ] Managers with at Least 5 Direct Reports
-- [ ] Confirmation Rate
+- [x] Employee Bonus
+- [x] Students and Examinations
+- [x] Managers with at Least 5 Direct Reports
+- [x] Confirmation Rate
 #### Basic Aggregate Functions
 - [ ] Not Boring Movies
 - [ ] Average Selling Price
