@@ -33,7 +33,7 @@ Write a solution to find the confirmation rate of each user.
 Return the result table in any order.
 */
 
-Select S.user_id, round(sum(if(COUNT(C.action = 'confirmed'))/count(C.action = 'timeout'),2) as confirmation_rate
-From Signups S
-Left JOIN Confirmations C on S.user_id = C.user_id
-Group by C.time_stamp
+SELECT S.user_id, CASE WHEN count(C.action) = 0 Then 0 Else ROUND(SUM(CASE WHEN C.action = 'confirmed' THEN 1 ELSE 0 END) / COUNT(C.action), 2) END AS confirmation_rate
+FROM Signups S
+LEFT JOIN Confirmations C ON S.user_id = C.user_id
+GROUP BY S.user_id

@@ -2,7 +2,7 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 13      |
+| Easy            | 16      |
 | Medium            | 3      |
 
 ## SQL 50 Track
@@ -24,9 +24,9 @@
 - [x] Managers with at Least 5 Direct Reports
 - [x] Confirmation Rate
 #### Basic Aggregate Functions
-- [ ] Not Boring Movies
-- [ ] Average Selling Price
-- [ ] Project Employees 1
+- [x] Not Boring Movies
+- [x] Average Selling Price
+- [x] Project Employees 1
 - [ ] Percentage of Users Attended a Contest
 - [ ] Queries Quality and Percentage
 - [ ] Monthly Transactions 1
