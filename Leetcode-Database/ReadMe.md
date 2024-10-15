@@ -2,7 +2,7 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 16      |
+| Easy            | 17      |
 | Medium            | 3      |
 
 ## SQL 50 Track
@@ -27,7 +27,7 @@
 - [x] Not Boring Movies
 - [x] Average Selling Price
 - [x] Project Employees 1
-- [ ] Percentage of Users Attended a Contest
+- [x] Percentage of Users Attended a Contest
 - [ ] Queries Quality and Percentage
 - [ ] Monthly Transactions 1
 - [ ] Immediate Food Delivery 2
