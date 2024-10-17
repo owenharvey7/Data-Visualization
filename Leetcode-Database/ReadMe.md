@@ -2,8 +2,8 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 18      |
-| Medium            | 6      |
+| Easy            | 24      |
+| Medium            | 7      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -33,13 +33,13 @@
 - [x] Immediate Food Delivery 2
 - [ ] Game Play Analysis 4
 #### Sorting and Grouping
-- [ ] Number of Unique Subjects Taught by Each Teacher
-- [ ] User Activity for the Past 30 Days 1
-- [ ] Product Sales Analysis 3
-- [ ] Classes More Than 5 Students
-- [ ] Find Followers Count
-- [ ] Biggest Sales Number
-- [ ] Customers Who Brought All Products
+- [x] Number of Unique Subjects Taught by Each Teacher
+- [x] User Activity for the Past 30 Days 1
+- [x] Product Sales Analysis 3
+- [x] Classes More Than 5 Students
+- [x] Find Followers Count
+- [x] Biggest Sales Number
+- [x] Customers Who Brought All Products
 #### Advanced Select and Joins
 - [ ] The Number of Employees Which Report to Each Employee
 - [ ] Primary Department for Each Employee
