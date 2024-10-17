@@ -3,7 +3,7 @@
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy            | 18      |
-| Medium            | 3      |
+| Medium            | 6      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -29,8 +29,8 @@
 - [x] Project Employees 1
 - [x] Percentage of Users Attended a Contest
 - [x] Queries Quality and Percentage
-- [ ] Monthly Transactions 1
-- [ ] Immediate Food Delivery 2
+- [x] Monthly Transactions 1
+- [x] Immediate Food Delivery 2
 - [ ] Game Play Analysis 4
 #### Sorting and Grouping
 - [ ] Number of Unique Subjects Taught by Each Teacher
