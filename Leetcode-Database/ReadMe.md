@@ -2,7 +2,7 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 24      |
+| Easy            | 26      |
 | Medium            | 7      |
 
 ## SQL 50 Track
@@ -31,7 +31,7 @@
 - [x] Queries Quality and Percentage
 - [x] Monthly Transactions 1
 - [x] Immediate Food Delivery 2
-- [ ] Game Play Analysis 4
+- [x] Game Play Analysis 4
 #### Sorting and Grouping
 - [x] Number of Unique Subjects Taught by Each Teacher
 - [x] User Activity for the Past 30 Days 1
@@ -41,8 +41,8 @@
 - [x] Biggest Sales Number
 - [x] Customers Who Brought All Products
 #### Advanced Select and Joins
-- [ ] The Number of Employees Which Report to Each Employee
-- [ ] Primary Department for Each Employee
+- [x] The Number of Employees Which Report to Each Employee
+- [x] Primary Department for Each Employee
 - [ ] Triangle Judgement
 - [ ] Consecutive Numbers
 - [ ] Product Price at a Given Date
