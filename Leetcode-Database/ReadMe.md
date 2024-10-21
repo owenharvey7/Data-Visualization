@@ -2,8 +2,8 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 26      |
-| Medium            | 7      |
+| Easy            | 27      |
+| Medium            | 11      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -43,11 +43,11 @@
 #### Advanced Select and Joins
 - [x] The Number of Employees Which Report to Each Employee
 - [x] Primary Department for Each Employee
-- [ ] Triangle Judgement
-- [ ] Consecutive Numbers
-- [ ] Product Price at a Given Date
-- [ ] Last Person to Fit in the Bus
-- [ ] Count Salary Categories
+- [x] Triangle Judgement
+- [x] Consecutive Numbers
+- [x] Product Price at a Given Date
+- [x] Last Person to Fit in the Bus
+- [x] Count Salary Categories
 #### Subqueries
 - [ ] Employees Whose Manager Left the Company
 #### Advanced String Functions / Regex / Clause
