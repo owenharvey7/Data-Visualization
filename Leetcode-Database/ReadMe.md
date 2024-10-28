@@ -2,8 +2,9 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 27      |
-| Medium            | 11      |
+| Easy            | 28      |
+| Medium            | 13      |
+| Hard            | 0      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -49,9 +50,21 @@
 - [x] Last Person to Fit in the Bus
 - [x] Count Salary Categories
 #### Subqueries
-- [ ] Employees Whose Manager Left the Company
+- [x] Employees Whose Manager Left the Company
+- [x] Exchange Seats
+- [x] Movie Rating
+- [ ] Restaurant Growth
+- [ ] Friend Requests 2: Who Has The Most Friends
+- [ ] Investments in 2016
+- [ ] Department Top Three Salaries
 #### Advanced String Functions / Regex / Clause
 - [ ] Fix Names in a Table
+- [ ] Patients With a Condition
+- [ ] Delete Duplicate Emails
+- [ ] Second Highest Salary
+- [ ] Group Sold Products By The Date
+- [ ] List The Products Ordered in a Period
+- [ ] Find Users wWith Valid E-Mails
 ## Misc
 [Link to LeetCode Problems](https://leetcode.com/problemset/database/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D)
 - [x] Combine Two Tables
