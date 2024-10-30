@@ -3,7 +3,7 @@
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy            | 28      |
-| Medium            | 13      |
+| Medium            | 14      |
 | Hard            | 0      |
 
 ## SQL 50 Track
@@ -53,7 +53,7 @@
 - [x] Employees Whose Manager Left the Company
 - [x] Exchange Seats
 - [x] Movie Rating
-- [ ] Restaurant Growth
+- [x] Restaurant Growth
 - [ ] Friend Requests 2: Who Has The Most Friends
 - [ ] Investments in 2016
 - [ ] Department Top Three Salaries
