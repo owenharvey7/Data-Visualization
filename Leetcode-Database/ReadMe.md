@@ -3,7 +3,7 @@
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy            | 28      |
-| Medium            | 14      |
+| Medium            | 16      |
 | Hard            | 0      |
 
 ## SQL 50 Track
@@ -54,8 +54,8 @@
 - [x] Exchange Seats
 - [x] Movie Rating
 - [x] Restaurant Growth
-- [ ] Friend Requests 2: Who Has The Most Friends
-- [ ] Investments in 2016
+- [x] Friend Requests 2: Who Has The Most Friends
+- [x] Investments in 2016
 - [ ] Department Top Three Salaries
 #### Advanced String Functions / Regex / Clause
 - [ ] Fix Names in a Table

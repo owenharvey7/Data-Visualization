@@ -16,3 +16,13 @@ Write a solution to find the people who have the most friends and the most frien
 
 The test cases are generated so that only one person has the most friends.
 */
+select requester_id as id,
+    (select count(*) from RequestAccepted  where (requester_id = id or accepter_id = id)) as num
+from RequestAccepted
+group by requester_id
+union 
+select accepter_id as id,
+    (select count(*) from RequestAccepted  where (requester_id = id or accepter_id = id)) as num
+from RequestAccepted
+group by accepter_id
+order by num desc limit 1
