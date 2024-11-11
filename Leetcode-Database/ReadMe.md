@@ -2,9 +2,9 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy            | 28      |
-| Medium            | 16      |
-| Hard            | 0      |
+| Easy            | 34      |
+| Medium            | 17      |
+| Hard            | 1      |
 
 ## SQL 50 Track
 [Link to SQL 50](https://leetcode.com/studyplan/top-sql-50/)
@@ -56,15 +56,15 @@
 - [x] Restaurant Growth
 - [x] Friend Requests 2: Who Has The Most Friends
 - [x] Investments in 2016
-- [ ] Department Top Three Salaries
+- [x] Department Top Three Salaries
 #### Advanced String Functions / Regex / Clause
-- [ ] Fix Names in a Table
-- [ ] Patients With a Condition
-- [ ] Delete Duplicate Emails
-- [ ] Second Highest Salary
-- [ ] Group Sold Products By The Date
-- [ ] List The Products Ordered in a Period
-- [ ] Find Users wWith Valid E-Mails
+- [x] Fix Names in a Table
+- [x] Patients With a Condition
+- [x] Delete Duplicate Emails
+- [x] Second Highest Salary
+- [x] Group Sold Products By The Date
+- [x] List The Products Ordered in a Period
+- [x] Find Users wWith Valid E-Mails
 ## Misc
 [Link to LeetCode Problems](https://leetcode.com/problemset/database/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D)
 - [x] Combine Two Tables
