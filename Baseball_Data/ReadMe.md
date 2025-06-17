@@ -8,3 +8,4 @@
 
 #### Resources
 - [Baseball Sevant](https://baseballsavant.mlb.com/)
+- [Baseball Reference](https://www.baseball-reference.com/)
